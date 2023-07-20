@@ -23,10 +23,14 @@ ignorar las carpetas /ref y /deprecado
 - - -
 
 
-<details><summary>Como correr</summary>
+<details><summary>Como ejecutar/correr</summary>
 <p>
 
-Importar a algun ide que soporte python como IntelliJ por ejemplo, un entorno donde se probo y funciono.
+Primero que nada, se requiere tener instalado Python en su computadora. La ultima version se encuentra disponible en
+
+https://www.python.org/downloads/
+
+Hecho eso, importar a algun ide que soporte python como IntelliJ por ejemplo, que es un entorno donde se probo y funciono.
 
 o alternativamente, correr utilizando la consola de comandos y el commando:
 
