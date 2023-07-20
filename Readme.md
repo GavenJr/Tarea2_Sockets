@@ -1,4 +1,6 @@
-
+<!-- This content will not appear in the rendered Markdown -->
+<!-- Los comentarios se hacen usando sintaxis HTML -->
+<!-- -->
 
 # Tarea Nro.2 Sockets
 
@@ -17,6 +19,21 @@ ignorar las carpetas /ref y /deprecado
 <p align="center" width="100%">
     <img width="100%" src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1jhj/bf547110b07a076c30bac70e1b5a7e9a/python-socket-connection-diagram.png">
 </p>
+
+- - -
+
+
+<details><summary>Como correr</summary>
+<p>
+
+Importar a algun ide que soporte python como IntelliJ por ejemplo, un entorno donde se probo y funciono.
+
+o alternativamente, correr utilizando la consola de comandos y el commando:
+
+    c:\...\{ruta archivo}>python {nombre archivo}.py
+
+</p>
+</details>
 
 - - -
 
@@ -113,14 +130,3 @@ sCliente.close()
 Cabe destacar que el código fuente de ambos códigos (Cliente y Servidor) se encuentran comentados. Los comentarios fueron quitados únicamente para una mejor legibilidad en el informe
 
 - - -
-
-<details><summary>Sample Text</summary>
-<p>
-sample text
-
-</p>
-</details>
-
-<!-- This content will not appear in the rendered Markdown -->
-<!-- Los comentarios se hacen usando sintaxis HTML -->
-<!-- -->
