@@ -109,17 +109,15 @@ sCliente.close()
 
 Cabe destacar que el código fuente de ambos códigos (Cliente y Servidor) se encuentran comentados. Los comentarios fueron quitados únicamente para una mejor legibilidad en el informe
 
+- - -
 
-<details><summary>COMO IMPLEMENTAR</summary>
+<details><summary>Sample Text</summary>
 <p>
 sample text
 
 </p>
 </details>
 
-- - -
-
 <!-- This content will not appear in the rendered Markdown -->
 <!-- Los comentarios se hacen usando sintaxis HTML -->
 <!-- -->
-<img src="https://github.com/GavenJr/proyectoIngSoftware/blob/master/proyecto_ubb/src/main/resources/model/Relational_Schema.png" width="512x512"> -->
