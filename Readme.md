@@ -12,7 +12,7 @@
 4. Sergio Zuñiga
 
 #### El codigo fuente se encuentra bajo "Tarea2_Sockets/tarea2/"
-ignorar las carpetas /red y /deprecado
+ignorar las carpetas /ref y /deprecado
 
 <p align="center" width="100%">
     <img width="100%" src="https://images.ctfassets.net/3prze68gbwl1/asset-17suaysk1qa1jhj/bf547110b07a076c30bac70e1b5a7e9a/python-socket-connection-diagram.png">
