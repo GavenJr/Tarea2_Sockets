@@ -2,16 +2,7 @@
 <!-- Los comentarios se hacen usando sintaxis HTML -->
 <!-- -->
 
-# Tarea Nro.2 Sockets
-
 ##  Comunicacion cliente-Servidor
-
-### Grupo por: 
-
-1. Alex Barrera
-2. Felipe Caro
-3. GavenJr
-4. Sergio Zuñiga
 
 #### El codigo fuente se encuentra bajo "Tarea2_Sockets/tarea2/"
 ignorar las carpetas /ref y /deprecado
